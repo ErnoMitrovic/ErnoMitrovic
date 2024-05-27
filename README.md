@@ -16,11 +16,11 @@ Welcome to my GitHub profile! I'm a passionate computer science student from Mex
 - Tools and Platforms: Git, GitHub, Docker, VS Code
 
 ## Portfolio
-You can check out my portfolio [here](https://portfolio-erno.vercel.app/).
+You can check out my portfolio <a href="https://portfolio-erno.vercel.app/" target="_blank">here</a>.
 
 ## Get in Touch
 - Email: ernomitrovic@zohomail.com
-- LinkedIn: [ernomitrovic](https://www.linkedin.com/in/ernomitrovic/)
+- LinkedIn: <a href="https://www.linkedin.com/in/ernomitrovic/" target="_blank">ernomitrovic</a>
 
 ## GitHub Stats
 [![Erno's GitHub stats](https://github-readme-stats.vercel.app/api?username=ernomitrovic)](https://github.com/ernomitrovic/github-readme-stats)
